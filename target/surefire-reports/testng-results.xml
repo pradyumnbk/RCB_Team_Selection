@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="2040" started-at="2022-08-15T17:36:42 IST" finished-at="2022-08-15T17:36:44 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2040" started-at="2022-08-15T17:36:42 IST" finished-at="2022-08-15T17:36:44 IST">
+      <class name="TeamSelectionTest">
+        <test-method status="PASS" signature="teamSelection()[pri:0, instance:TeamSelectionTest@756cf158]" name="teamSelection" duration-ms="1655" started-at="2022-08-15T17:36:42 IST" finished-at="2022-08-15T17:36:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teamSelection -->
+      </class> <!-- TeamSelectionTest -->
+    </test> <!-- Test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
